@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KrysG-2004
-- 👀 I’m interested in JAVA, Game Desigin, UE5
+- 👀 I’m interested in UI/UX, AI, Web, APP, Game Desigin, UE5
 - 🌱 I’m currently learning Computer Science in Penn State.
 - 💞️ I’m looking to collaborate on UE5 project or Python, Java project.
 - 📫 krysyyds@gmail.com
